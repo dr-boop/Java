@@ -1,4 +1,4 @@
 # Java
 
-## Submitted by
-# Abhay Chaturvedi
+Submitted by
+## Abhay Chaturvedi
